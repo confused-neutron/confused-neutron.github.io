@@ -10222,3 +10222,16 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+hr.smooth {
+  border-top: 2px solid #f7eed5;
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(247, 238, 213, 0.05), rgba(247, 238, 213, 0.5), rgba(247, 238, 213, 0.05));
+}
+
+hr.smoothfade {
+  border-top: 2px solid #f7eed5;
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(153, 119, 24, 0), rgba(167, 161, 148, 0.3), rgba(247, 238, 213, 0));
+}
